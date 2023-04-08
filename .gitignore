@@ -1,0 +1,9 @@
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+node_modules
+build
